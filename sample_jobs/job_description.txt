@@ -1,0 +1,27 @@
+Job Title: Python Developer
+Location: Noida sector 2
+Employment Type: Full-Time
+About the Role:
+We are looking for a talented Python Developer to join our dynamic team. You’ll work on developing and maintaining high-performance applications and services, collaborating with cross-functional teams to deliver scalable solutions that drive innovation.
+Key Responsibilities:
+- Design, develop, and maintain efficient and reusable Python code
+- Integrate user-facing elements with server-side logic
+- Develop and maintain APIs, microservices, and automation tools
+- Optimize applications for maximum speed and scalability
+- Collaborate with front-end developers, data scientists, and system engineers
+- Identify and fix bottlenecks and bugs
+Qualifications:
+- Proven experience as a Python developer (2+ years preferred)
+- Strong knowledge of Python frameworks such as Django, Flask, or FastAPI
+- Familiarity with databases (PostgreSQL, MySQL, MongoDB)
+- Understanding of version control tools (e.g., Git)
+- Experience working with RESTful APIs and cloud platforms (AWS, GCP, or Azure)
+- Excellent problem-solving skills and attention to detail
+Preferred Skills:
+- Experience with Docker, Kubernetes, or CI/CD pipelines
+- Background in data engineering, AI/ML, or automation projects
+- Familiarity with front-end technologies like HTML/CSS and JavaScript
+Why Join Us:
+- Innovative projects and a collaborative team
+- Opportunities for learning and growth
+- Flexible work arrangements and competitive benefits
